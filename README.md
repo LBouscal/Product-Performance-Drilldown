@@ -12,7 +12,8 @@ Through this project, I practiced creating highly detailed tables and interactiv
 [Click here to view the Tableau Visualization](https://public.tableau.com/app/profile/layshla.bouscal/viz/CreateaProductPerformanceDrill-DownReport/ProductPerformance)
 
 ## 📷 Project Preview
-![Product Performance Screenshot](Product%20Performance.jpeg)
+![Product Performance](https://github.com/user-attachments/assets/26394267-5561-44ba-916f-89612943eed1)
+
 
 ## 🧠 Key Concepts
 - Drill-down reports
